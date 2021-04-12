@@ -1,0 +1,32 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "Quotes",
+      "messages": [
+        {
+          "data": {
+            "content": "Heres a Quote for @Xeltux",
+            "embeds": [
+              {
+                "title": "He Said",
+                "description": "When you’re young, you look at television and think, There’s a conspiracy. The networks have conspired to dumb us down. But when you get a little older, you realize that’s not true. The networks are in business to give people exactly what they want. That’s a far more depressing thought. Conspiracy is optimistic! You can shoot the bastards!",
+                "color": 16578808,
+                "author": {
+                  "name": "Steve Jobs",
+                  "icon_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg"
+                }
+              }
+            ]
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/831031915191861268/ZC3A8ud--QRkGF1MrnFVINlyWWoJ3F0C6gFF0f_5e3L8yDXZSKWgisUO9d4rCY1FfVfd"
+        }
+      ]
+    }
+  ]
+}
